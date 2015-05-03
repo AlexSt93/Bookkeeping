@@ -8,18 +8,17 @@ and open the template in the editor.
     Author     : Александр
 */
 #header{
-    height: 50px;
+    height: 100px;
 }
 #center{
     height: 800px;
     background: wheat;
 }
 #login_form{
-    top: 100px;
+    top: 150px;
     text-align: center;
     border: solid 1px black;
-    background: #ccc;     
-    width: 30%;
+    width: 25%;
     margin: 0 auto;
     position: relative;
 

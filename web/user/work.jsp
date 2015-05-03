@@ -1,6 +1,6 @@
 <%-- 
-    Document   : registration
-    Created on : 15.04.2015, 16:05:41
+    Document   : main
+    Created on : 15.04.2015, 16:09:35
     Author     : Александр
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Work Page</h1>
     </body>
 </html>
